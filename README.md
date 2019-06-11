@@ -1,5 +1,5 @@
 # Chocolatey Quick Start Installer
-Simple script that auto-installs programs using Chocolatey along with a bunch of 
+Simple script that auto-installs programs using Chocolatey along with a bunch of other programs that someone who's just installed Windows might need
 
 ### Changing the Choco List
 
